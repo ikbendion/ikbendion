@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ikbendion
-- 👀 I’m interested in SDN, Automation and anything linux related.
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: info@ikbendion.nl
+- 👋 Hi, I’m Dion!
+- 👀 I’m a cloud engineer by day.
+- 🌱 I’m manage, create and maintain cloud-native infrastructure.
+- 📫 Reach me via: info@ikbendion.nl
 
 <!---
 ikbendion/ikbendion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
