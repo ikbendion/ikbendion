@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dion!
 - 👀 I’m a cloud engineer by day.
-- 🌱 I’m manage, create and maintain cloud-native infrastructure.
+- 🌱 I manage, create and maintain cloud-native infrastructure.
 - 📫 Reach me via: info@ikbendion.nl
 
 <!---
